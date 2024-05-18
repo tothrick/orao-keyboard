@@ -6,3 +6,4 @@ Vintage computer keyboard
 V3 version connector modified. 
 
 ![image](https://github.com/tothrick/orao-keyboard/assets/151435773/3b5fc9f0-9a17-4feb-98b3-1cc3ec4ef778)
+![image](https://github.com/tothrick/orao-keyboard/assets/151435773/22e849b4-f8dc-4520-9f12-88aab0780759)
